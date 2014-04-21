@@ -1,5 +1,5 @@
 import java.io.*;
-public class faktorial {
+public class faktor {
     public static void main(String[] args) {
         String input = "";
         int i, jlh = 1;
